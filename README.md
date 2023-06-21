@@ -1,3 +1,4 @@
+![real-estate-investment-types](https://github.com/anastasiialeskiv/project_2/assets/124845922/4cdb1ede-0f21-42fb-a913-29368f515eef)
 # Anastasiia Leskiv Project 2
 # Business Understanding
 A client reached who is thinking of buying a single family home and doesnt know which area is best. They wanted me to build them a regression to allow them to not overpay for a home and provide analysis on the types of homes they would find in each neighborhood. My objective was to observe properties of King County for various home features and analyze the home prices based on those features. Then build a predictive regression model to predict the price of a home. After refining my model, I built dashboards to visualize and communicate my results. Which I will present to my client with my predictions.
